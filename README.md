@@ -31,7 +31,7 @@ Type "script ~/outputfile.txt" on PC.
 Plugin serial USB cable to PC.
 Type "sudo screen /dev/ttyUSB0 115200" on PC.
 Power on the Tinkerboard.
-It should display the test menu with 8 test items on PC.
+It should display the test menu with 11 test items on PC.
 After tests done, hit q to exit tests.
 Power off the Tinkerboard.
 Unplug serial USB cable from PC.
