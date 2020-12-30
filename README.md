@@ -125,7 +125,7 @@ These tests used Seeed Grove  starter kit LED, button, buzzer, Grove-LCD RGB Bac
    Connect gpio pin 1 to oled display 3.3V.
    Connect gpio pin 9 to oled display ground.
 9. ddr test.
-   This test will writing random data to ddr address from 0x20000 to 0x7ffffff
+   This test will write random data to ddr address from 0x20000 to 0x7ffffff
    Then read ddr address from 0x20000 to 0x7ffffff compare to expected data.
    It will stop when any data mismatch.
 a. mmc test.
